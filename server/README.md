@@ -130,6 +130,8 @@ Base URL examples:
 - http://localhost:5000/admin
 - http://localhost:5000
 
+#### Deployed URL: https://zorvyn-financedata-server.onrender.com
+
 ### 9.1 Auth Routes
 
 POST /auth/login
