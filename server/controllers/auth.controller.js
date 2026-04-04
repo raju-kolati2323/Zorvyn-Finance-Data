@@ -3,7 +3,7 @@ const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const { sendEmail } = require('../utils/sendEmail');
 const generateOtpTemplate = require('../utils/otpTemplate');
-const PasswordReset = require('../models/forgotPassword');
+const PasswordReset = require('../models/ForgotPassword');
 const crypto = require('crypto');
 const { addRevokedToken } = require('../utils/tokenRevocation');
 
