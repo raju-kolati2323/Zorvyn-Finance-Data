@@ -2,6 +2,20 @@
 
 Node.js + Express + MongoDB backend for role-based personal finance record management.
 
+
+### Login Credentials
+-- Admin credentials are provided by default. For Viewer and Analyst roles, you can either use the provided credentials or create new ones from the Admin panel.
+#### Admin: (Default)
+	Email: 		admin@gmail.com
+	Password:   admin123
+#### Viewer:
+	Email:		visitor1@gmail.com
+	Password:	visitor1123
+#### Analyst:
+	Email: 		analyst1@gmail.com
+	Password: 	analyst1123
+
+
 ## 1. Project Overview
 
 This backend provides:
